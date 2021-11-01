@@ -2,6 +2,6 @@ public with sharing class TestClass {
     
     public static void testMethod(){
 
-        System.debug('=======5=====');
+        System.debug('Amit');
     }
 }
